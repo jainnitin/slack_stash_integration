@@ -52,4 +52,8 @@ https://your_stash_server/projects/ACME/repos/foo
 :rocket:
 ```
 
-Everything should work! Try to push something!
+Everything should work and you should be able to get notification like
+
+![Example Notification](https://raw.githubusercontent.com/jainnitin/slack_stash_integration/master/slack_notification.png)
+
+Try to push something!
